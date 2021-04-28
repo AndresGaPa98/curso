@@ -17,6 +17,7 @@ namespace ClassLibrary2.Data
             Database.SetInitializer(new CreateDatabaseIfNotExists<ApiContext>());
         }
         public DbSet<Book> books { get; set; }
+        public DbSet<Autor> autores { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
