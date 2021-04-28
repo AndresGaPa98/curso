@@ -1,0 +1,15 @@
+C:\Home\WebApi\ClassLibrary2.Data\bin\Debug\ClassLibrary2.Data.dll.config
+C:\Home\WebApi\ClassLibrary2.Data\bin\Debug\ClassLibrary2.Data.dll
+C:\Home\WebApi\ClassLibrary2.Data\bin\Debug\ClassLibrary2.Data.pdb
+C:\Home\WebApi\ClassLibrary2.Data\bin\Debug\EntityFramework.dll
+C:\Home\WebApi\ClassLibrary2.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Home\WebApi\ClassLibrary2.Data\bin\Debug\EntityFramework.xml
+C:\Home\WebApi\ClassLibrary2.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Home\WebApi\ClassLibrary2.Data\obj\Debug\WebApi.Data.csprojAssemblyReference.cache
+C:\Home\WebApi\ClassLibrary2.Data\obj\Debug\WebApi.Data.csproj.CoreCompileInputs.cache
+C:\Home\WebApi\ClassLibrary2.Data\obj\Debug\WebApi.Data.csproj.CopyComplete
+C:\Home\WebApi\ClassLibrary2.Data\obj\Debug\ClassLibrary2.Data.dll
+C:\Home\WebApi\ClassLibrary2.Data\obj\Debug\ClassLibrary2.Data.pdb
+C:\Home\WebApi\ClassLibrary2.Data\obj\Debug\ClassLibrary2.Data.Migrations.Initial.resources
+C:\Home\WebApi\ClassLibrary2.Data\obj\Debug\WebApi.Data.csproj.GenerateResource.cache
+C:\Home\WebApi\ClassLibrary2.Data\obj\Debug\ClassLibrary2.Data.Migrations.Autor.resources
